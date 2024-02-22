@@ -2,4 +2,4 @@
 
 *** THIS PAGE IS HISTORICAL ONLY SO DON'T BLAME ME ***
 
-[![GOOGLE](MentalHealthHistorySA.github.io/google.png "Google")](http://google.com)
+[![GOOGLE](http://MentalHealthHistorySA.github.io/google.png "Google")](http://google.com)
